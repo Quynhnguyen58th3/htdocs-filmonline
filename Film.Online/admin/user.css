@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 800px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul{
+    list-style-type: none;
+}
+#top{
+    height: 100px;
+    background: black;
+    text-align: center;
+    line-height: 100px;
+}
+#menu{
+    margin-top: 10px;
+}
+#menu li{
+    float: left;
+    width: 199px;
+    border-right: 1px solid #fff;
+    text-align: center;
+    line-height: 30px;
+    background: rgb(41, 196, 10);
+    color: rgb(2, 15, 13);
+}
+
+#wrapper table{
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 800px;
+    text-align: center;
+}
+#wrapper table tr{
+    border: 1px solid #0c6;
+    line-height: 25px;
+}
+#wrapper table td{
+    border: 1px solid #0c6;
+    color:#666;
+}
+#bottom{
+    height: 40px;
+    background: green;
+    line-height: 40px;
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+#wrapper2 table{
+    margin: 10px 20px;
+}
+#wrapper2 table tr{
+    line-height: 30px;
+}
+#wrapper2 table input{
+    padding: 2px;
+}

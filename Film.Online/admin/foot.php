@@ -1,4 +1,5 @@
 <div id="bottom">
-    copyright & copy: by Quynhnguyen
-</div>
+        FilmOnline by VanQuynh
+    </div>
+</body>
 </html>
